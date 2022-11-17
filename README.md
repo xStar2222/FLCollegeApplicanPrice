@@ -3,4 +3,4 @@
 Used To Take Input From User About What College They Would Like To Select Then Returns Application Price
 
 
-* Nothing crazy, just made to support the coolleges I was intrested in applying. May add more if I get bored and want something to do.
+* Nothing crazy, just made to support the colleges I was intrested in applying. May add more if I get bored and want something to do.
